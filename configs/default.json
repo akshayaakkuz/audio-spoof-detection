@@ -1,0 +1,9 @@
+{
+  "sample_rate": 16000,
+  "frame_ms": 25.0,
+  "hop_ms": 10.0,
+  "n_fft": 512,
+  "random_seed": 42,
+  "test_size": 0.2
+}
+
